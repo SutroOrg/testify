@@ -1,4 +1,8 @@
 # testify
+![npm (scoped)](https://img.shields.io/npm/v/@sutro-dev/testify?style=for-the-badge)
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/SutroOrg/testify/CI?style=for-the-badge)
+![node-lts (scoped)](https://img.shields.io/node/v-lts/@sutro-dev/testify?style=for-the-badge)
+
 
 Sometimes you have a function in a file that is private, but needs to be tested.
 
